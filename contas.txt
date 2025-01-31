@@ -1,0 +1,26 @@
+Clientes -
+Email: cliente123@gmail.com
+Senha: cliente123
+
+Email: pedrobueno@gmail.com
+Senha: pedrobueno123
+
+Email: gustavocosta@gmail.com
+Senha: gustavocosta456
+
+
+
+Funcionários -
+Nome: Funcionario1
+Senha: Funcionario123
+
+Nome: Isadora Bastos
+Senha: Isadora456
+
+Nome: Lavinia Oliveira
+Senha: Lavinia789
+
+
+
+
+

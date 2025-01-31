@@ -1,0 +1,127 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login-caixa{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    margin-top: 150px;
+    padding: 50px;
+    padding-top: 80px;
+    padding-bottom: 110px;
+}
+
+.login-caixa2{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+    margin-top: 60px;
+    padding: 70px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.botao-entrar{
+    font-size: medium;
+    margin-top: 35px;
+    background-color:rgb(231, 234, 240);
+    color: rgb(63, 108, 175);
+    border-color: white;
+    border-radius: 40px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.botao-entrar2{
+    font-size: medium;
+    margin-top: 15px;
+    background-color:rgb(231, 234, 240);
+    color: rgb(63, 108, 175);
+    border-color: white;
+    border-radius: 40px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.tamanholetra1 {
+    font-size: medium;
+    margin: 10px;
+    padding: 5px;
+    padding-right: 50px;
+}
+
+.tamanholetra2 {
+    font-size: 35px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.cadastroinserir {
+    margin-top: 10px;   
+    margin-bottom: 10px; 
+    padding: 5px;
+    padding-right: 80px;
+    font-size: medium;
+
+}
+
+.cadastroletra {
+    padding: 5px;
+    padding-right: 10px;
+}
+
+
+.botaocadastro{
+    margin-top:200px;
+}
+
+.produtostitulo {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+
+.tabelaprodutos2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50px;
+}
+
+
+.produtosinfo {
+    font-size: 30px;
+}
+
+
+.tabelaprodutos {
+    margin-top: 10px;
+    padding-top: 20px;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 50px;
+}
+
+.espacoprodutos {
+    margin-right: 10px;
+}
+
+.imagemproduto {
+    padding: 7px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.imagemproduto:hover {
+    background-color: rgb(233, 94, 94);
+}
+
+.imagemcompra {
+    border-radius: 30px;
+}
